@@ -14,7 +14,7 @@ You can visit my live portfolio here:
 ## What’s in this Repository?
 
 - Documentation related to my portfolio
-- Project files and resources (if any)
+- Project files
 - Notes and plans for future updates
 
 ## Technologies Highlighted in My Portfolio
